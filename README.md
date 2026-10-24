@@ -16,7 +16,7 @@ To build a predictive model that maps initial CNT configurations (chiral indices
 Tech Stack
 - Python
 - Pandas, NumPy
-- Scikit-learn
+- Scikit learn
 - Matplotlib
 
 Methodology
@@ -44,7 +44,7 @@ Feature Importance
 
 Key Highlights
 - Applied Machine Learning to a material science problem
-- Built an end-to-end ML pipeline
+- Built an end to end ML pipeline
 - Handled large-scale, high-dimensional scientific data
 - Achieved fast and scalable predictions
 
